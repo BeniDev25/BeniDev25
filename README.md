@@ -1,7 +1,7 @@
 # BeniDev's GitHub
 
 ## Hey, I'm BeniDev!  
-*Python Developer | Code Crafter | Cheater*  
+*Python Developer | Code Crafter | Learning into*  
 
 ---
 
@@ -10,10 +10,16 @@ Yo, what's good? I'm BeniDev, a Python developer who lives for writing clean, cl
 
 ---
 
+### What Programming Languages am i able to do?
+Right now im into Python & Lua but im also learning right now C++!
+
+
 ### What I’m About  
 I code with Python to build everything from Cheats to Programms. I love the open-source scene, and teaming up with other devs to create something dope.
 
+
 ---
+
 
 ### My GitHub Lowdown  
 Swing by my GitHub to check out my work:  
@@ -24,7 +30,7 @@ Swing by my GitHub to check out my work:
 
 ### Let’s Connect  
 Got a project idea? Wanna talk Python or just geek out? I’m down.
-Message me on Discord: derbenii
+Message me on Discord: benidev25
 
 ---
 
