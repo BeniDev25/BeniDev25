@@ -1,18 +1,10 @@
 ### Who Am I?  
-Hey, im Beni, im learning a the moment Python and some C++. 
-Would say, im an Software Developer (kinda)
-Trying my best, and friendly!
+Im Beni, 14yo, im learning at the moment Python and some C++. 
 ---
 
 
-### My GitHub 
-Swing by my GitHub to check out my work:  
-- **Projects**: Cheats for several games, databases, and much more, all powered by Python.  
----
+- At the moment im working on a Universal Python Aim Assist :)
+- And some other stuff :)
 
-### any questions?  
-Message me on Discord: derbenii
-
----
-
-*© 2025 BeniDev. Fueled by coffee and Python magic.*
+If you have questions, feel free to dm me on discord: derbenii
+--
